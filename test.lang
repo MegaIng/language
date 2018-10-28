@@ -1,0 +1,8 @@
+store number 5 as a
+store number 4.5 as b
+print add a and b
+print replace "," with " " in "a,b,c"
+print in "a,b,c" replace "," with " "
+print replace "," with " " in "a,b,c" 1 times
+print in "a,b,c" replace "," with " " 1 times
+print "Hello World"
